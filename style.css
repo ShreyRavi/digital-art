@@ -74,3 +74,14 @@ hr {
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover.dropbtn {background-color: #3e8e41;}
+
+.code-left {
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+.result-right {
+    width: 50%;
+    float: right;
+    height: 100%;
+}
