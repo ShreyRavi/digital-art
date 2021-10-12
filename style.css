@@ -1,10 +1,8 @@
 body {
     margin: auto;
 	font-family: 'Quattrocento', serif;
-	font-size: 95%; 
 	line-height: 1.8em;
     color: #444;
-    width: 92%;
     margin-bottom: 8%;
     max-width: 960px;
     background-color: #F6F5ED; 
@@ -30,25 +28,7 @@ a, a:visited {
 }
 
 hr {
-    max-width: 600px;
-}
-
-.bio {
-    margin: 0 auto;
-}
-
-.biotile {
-    display: flex;
-    max-width: 600px;
-    text-align: left;
-    line-height: 2.2em;
-}
-
-.profilePicture {
-    border-radius: 50%;
-    width: 100px;
-    flex: 0 0 20%;
-    margin-right: 30px;
+    max-width: 960px;
 }
 
 .dropdown {
